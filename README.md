@@ -48,8 +48,8 @@ Recreate the different marketing strategies: Reputation Mangement, Promotions an
 
 ## References
 
-Analysis: 
-
+Analysis: [
+](https://github.com/dsrichard97/project4DynamicHotelPricing/blob/main/Trip%20Advisor%20Marketing%20Analysis.pdf)
 Kaggle Link: [
 ](https://www.kaggle.com/datasets/jocelyndumlao/tripadvisor-rating-impact-on-hotel-popularity)https://www.kaggle.com/datasets/jocelyndumlao/tripadvisor-rating-impact-on-hotel-popularity
 
