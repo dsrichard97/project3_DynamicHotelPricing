@@ -1,6 +1,6 @@
 # project4: Dynamic Hotel Pricing and Customer Segmentation using Machine Learning
 * Collaborators: Richard Diazdeleon
-* Date: TBD
+* Date: October 5. 2023
 
 
 ## Introduction
@@ -47,6 +47,8 @@ Features such as score_adjusted and location_grade are critical in determining h
 Recreate the different marketing strategies: Reputation Mangement, Promotions and Discounts, Geo-Targeting.
 
 ## References
+
+Analysis: 
 
 Kaggle Link: [
 ](https://www.kaggle.com/datasets/jocelyndumlao/tripadvisor-rating-impact-on-hotel-popularity)https://www.kaggle.com/datasets/jocelyndumlao/tripadvisor-rating-impact-on-hotel-popularity
