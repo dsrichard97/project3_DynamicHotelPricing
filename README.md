@@ -37,7 +37,7 @@ b. Interpret the results in the context of marketing strategies for different se
  
 ## Key Findings
 Decision Trees provided a higher accuracy in segmentation compared to Naive Bayes.
-Features such as score_adjusted and location_grade are critical in determining hotel pricing.
+Features such as score_adjusted and location_grade are critical in determining hotel pricing. Created a pricing model to best determine the possible distributions.
 
 ##  R Code and Libraries Used
 * Python Version: 3
