@@ -1,4 +1,4 @@
-# project4: Dynamic Hotel Pricing and Customer Segmentation using Machine Learning
+# Project4: Dynamic Hotel Pricing and Customer Segmentation using Machine Learning
 * Collaborators: Richard Diazdeleon
 * Date: October 5. 2023
 
@@ -47,7 +47,7 @@ Features such as score_adjusted and location_grade are critical in determining h
 Recreate the different marketing strategies: Reputation Mangement, Promotions and Discounts, Geo-Targeting.
 
 ## References
-PowerPoint: 
+PowerPoint: https://github.com/dsrichard97/project4DynamicHotelPricing/blob/main/Dynamic_Hotel_Pricing_Presentation%201.pptx
 
 Analysis: [
 Code](https://github.com/dsrichard97/project4DynamicHotelPricing/blob/main/Trip%20Advisor%20Marketing%20Analysis.pdf)
