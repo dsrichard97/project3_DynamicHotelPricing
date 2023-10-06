@@ -39,7 +39,7 @@ b. Interpret the results in the context of marketing strategies for different se
 Decision Trees provided a higher accuracy in segmentation compared to Naive Bayes.
 Features such as score_adjusted and location_grade are critical in determining hotel pricing. Created a pricing model to best determine the possible distributions.
 
-##  R Code and Libraries Used
+##  Python Code and Libraries Used
 * Python Version: 3
 * Libraries: pandas, scikit-learn, matplotlib, seaborn
   
@@ -47,6 +47,7 @@ Features such as score_adjusted and location_grade are critical in determining h
 Recreate the different marketing strategies: Reputation Mangement, Promotions and Discounts, Geo-Targeting.
 
 ## References
+PowerPoint: 
 
 Analysis: [
 Code](https://github.com/dsrichard97/project4DynamicHotelPricing/blob/main/Trip%20Advisor%20Marketing%20Analysis.pdf)
