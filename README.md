@@ -1,4 +1,4 @@
-# Project4: Dynamic Hotel Pricing and Customer Segmentation using Machine Learning
+# Project3: Dynamic Hotel Pricing and Customer Segmentation using Machine Learning
 * Collaborators: Richard Diazdeleon
 * Date: October 5. 2023
 
